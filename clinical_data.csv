@@ -1,0 +1,6 @@
+patient_id,age,gender,diagnosis,stage
+P001,45,female,breast_cancer,II
+P002,62,male,lung_cancer,III
+P003,38,female,breast_cancer,I
+P004,71,male,liver_cancer,IV
+P005,29,female,breast_cancer,II

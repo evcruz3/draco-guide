@@ -1,0 +1,9 @@
+gene_id,expression_level,tissue,sample_id
+BRCA1,45.2,breast,S001
+BRCA2,32.8,breast,S001
+TP53,67.1,breast,S001
+BRCA1,12.3,liver,S002
+BRCA2,23.7,liver,S002
+TP53,89.4,liver,S002
+EGFR,156.8,lung,S003
+KRAS,78.9,lung,S003
